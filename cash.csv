@@ -1,0 +1,9 @@
+hostName,type,data,dateCaptured
+canvas.com,MX,"[['10 alt3.canvas.com', 300], ['1 /.canvas.com', 300], ['5 alt1.canvas.com', 300], ['5 alt2.canvas.com', 300], ['10 alt4.canvas.com', 300]]",2022-04-17 10:17:02
+google.com,A,"[['142.250.179.206', 300]]",2022-05-19 14:15:52
+apple.com,MX,"[['10 ma1-aaemail-dr-lapp01.apple.com', 3600], ['10 ma1-aaemail-dr-lapp02.apple.com', 3600], ['10 ma1-aaemail-dr-lapp03.apple.com', 3600], ['10 rn-mailsvcp-ppex-lapp14.apple.com', 3600], ['10 rn-mailsvcp-ppex-lapp15.apple.com', 3600], ['10 rn-mailsvcp-ppex-lapp24.apple.com', 3600], ['10 rn-mailsvcp-ppex-lapp34.apple.com', 3600], ['10 rn-mailsvcp-ppex-lapp35.apple.com', 3600], ['10 rn-mailsvcp-ppex-lapp44.apple.com', 3600], ['10 rn-mailsvcp-ppex-lapp45.apple.com', 3600]]",2022-05-19 14:16:27
+github.com,MX,"[['1 aspmx.l.google.com', 3600], ['10 alt4.aspmx.l.google.com', 3600], ['10 alt2.aspmx.l.google.com', 3600], ['5 alt3.aspmx.l.google.com', 3600], ['5 alt3.aspmx.l.google.com', 3600]]",2023-05-19 14:20:07
+github.com,A,"[['140.82.121.4', 60]]",2022-05-21 14:33:34
+facebook.com,MX,"[['10 smtpin.vvv.facebook.com', 3600]]",2022-05-19 14:37:50
+spotify.com,MX,"[['10 aspmx2.googlemail.com', 172800], ['5 aspmx5.googlemail.com', 172800], ['5 aspmx3.googlemail.com', 172800], ['10 aspmx.l.google.com', 172800], ['10 aspmx4.googlemail.comm', 172800], ['1 alt1.aspmx.l.google.com', 172800], ['10 alt1.aspmx.l.google.com', 172800]]",2022-05-23 14:38:49
+spotify.com,A,"[['35.186.224.25', 300]]",2022-05-19 14:41:53
